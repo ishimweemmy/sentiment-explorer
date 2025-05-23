@@ -1,0 +1,98 @@
+Country,Region,RandomValue
+United States,Alabama,1
+United States,Alaska,0
+United States,Arizona,2
+United States,California,1
+United States,Colorado,0
+United States,Florida,2
+United States,New York,1
+United States,Texas,0
+United Kingdom,England,2
+United Kingdom,Scotland,1
+United Kingdom,Wales,0
+United Kingdom,Northern Ireland,2
+Canada,Alberta,1
+Canada,British Columbia,0
+Canada,Ontario,2
+Canada,Quebec,1
+Canada,Nova Scotia,0
+Australia,New South Wales,2
+Australia,Queensland,1
+Australia,Victoria,0
+Australia,Western Australia,2
+Australia,South Australia,1
+Germany,Bavaria,0
+Germany,Berlin,2
+Germany,Hamburg,1
+Germany,Hesse,0
+Germany,North Rhine-Westphalia,2
+France,Brittany,1
+France,Grand Est,0
+France,Île-de-France,2
+France,Normandy,1
+France,Provence-Alpes-Côte d'Azur,0
+Japan,Hokkaido,2
+Japan,Tokyo,1
+Japan,Osaka,0
+Japan,Kyoto,2
+Japan,Okinawa,1
+China,Beijing,0
+China,Guangdong,2
+China,Shanghai,1
+China,Sichuan,0
+China,Zhejiang,2
+India,Maharashtra,1
+India,Uttar Pradesh,0
+India,Tamil Nadu,2
+India,Karnataka,1
+India,Gujarat,0
+Brazil,São Paulo,2
+Brazil,Rio de Janeiro,1
+Brazil,Minas Gerais,0
+Brazil,Bahia,2
+Brazil,Rio Grande do Sul,1
+Mexico,Mexico City,0
+Mexico,Jalisco,2
+Mexico,Nuevo León,1
+Mexico,Veracruz,0
+Mexico,Puebla,2
+Russia,Moscow,1
+Russia,Saint Petersburg,0
+Russia,Novosibirsk,2
+Russia,Yekaterinburg,1
+Russia,Kazan,0
+Italy,Lombardy,2
+Italy,Lazio,1
+Italy,Campania,0
+Italy,Sicily,2
+Italy,Veneto,1
+Spain,Andalusia,0
+Spain,Catalonia,2
+Spain,Madrid,1
+Spain,Valencia,0
+Spain,Galicia,2
+South Korea,Seoul,1
+South Korea,Busan,0
+South Korea,Incheon,2
+South Korea,Daegu,1
+South Korea,Gwangju,0
+Netherlands,North Holland,2
+Netherlands,South Holland,1
+Netherlands,Utrecht,0
+Netherlands,North Brabant,2
+Netherlands,Gelderland,1
+Saudi Arabia,Riyadh,0
+Saudi Arabia,Makkah,2
+Saudi Arabia,Eastern Province,1
+Saudi Arabia,Madinah,0
+Saudi Arabia,Asir,2
+South Africa,Gauteng,1
+South Africa,Western Cape,0
+South Africa,KwaZulu-Natal,2
+South Africa,Eastern Cape,1
+South Africa,Free State,0
+Turkey,Istanbul,2
+Turkey,Ankara,1
+Turkey,Izmir,0
+Turkey,Antalya,2
+Turkey,Bursa,1
