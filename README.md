@@ -1,4 +1,4 @@
-# Global Sentiment Heatmap Visualization
+# Global Sentiment Globe Visualization
 
 ![Sentiment Map Example](/public/cover.png)
 
